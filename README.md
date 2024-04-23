@@ -52,26 +52,26 @@
 
 ------
 
-Wordle Clone en React Native
-Este proyecto es un clon del popular juego Wordle, implementado en React Native. Está diseñado para funcionar tanto en dispositivos iOS como Android, proporcionando una experiencia similar al juego original. El objetivo es adivinar una palabra oculta con un número limitado de intentos.
 
-Características
-Interfaz sencilla: La aplicación tiene una interfaz de usuario clara y simple, lo que facilita el inicio y la participación en el juego.
-Responsive: Adecuado para una variedad de tamaños de pantalla de dispositivos móviles.
-Funcionalidad de juego completa: Incluye todas las funcionalidades básicas del juego Wordle, como la entrada de predicciones y la retroalimentación visual de la precisión de las predicciones.
-Cómo empezar
-Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
+Este proyecto es un clon del popular juego Wordle, implementado en React Native. Está diseñado para funcionar tanto en dispositivos iOS como Android, proporcionando una experiencia de juego similar al original.
 
-Clona el repositorio:
+🌟 Características
+Interfaz Sencilla: Una interfaz de usuario clara y fácil de usar.
+Responsive: Optimizado para diversos tamaños de dispositivos móviles.
+Funcionalidad Completa: Incluye todas las funcionalidades esenciales de Wordle, como la entrada de predicciones y la retroalimentación visual.
+🚀 Cómo Empezar
+Sigue estos pasos para ejecutar este proyecto en tu entorno local:
+
+Clona el Repositorio
 bash
 Copy code
 git clone [URL del repositorio]
-Instala las dependencias:
+Instala las Dependencias
 bash
 Copy code
 cd [nombre-del-directorio]
 npm install
-Ejecuta la aplicación:
+Ejecuta la Aplicación
 Para iOS:
 bash
 Copy code
@@ -80,9 +80,9 @@ Para Android:
 bash
 Copy code
 npx react-native run-android
-Estructura del Proyecto
-/src/components/Game: Contiene la lógica principal del juego y la UI.
-/src/utils/constants: Define las constantes utilizadas en todo el proyecto, como los colores y configuraciones básicas.
-App.js: El punto de entrada de la aplicación, donde se configura la pantalla de inicio y se maneja la transición al juego principal.
+📁 Estructura del Proyecto
+src/components/Game: Contiene la lógica principal del juego y la interfaz de usuario.
+src/utils/constants: Define las constantes utilizadas en todo el proyecto, incluyendo colores y configuraciones.
+App.js: Punto de entrada de la aplicación, configura la pantalla de inicio y gestiona la transición al juego.
 
 Credit: [Kiran1689](https://github.com/Kiran1689)
