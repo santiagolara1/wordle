@@ -53,36 +53,35 @@
 ------
 
 
-Este proyecto es un clon del popular juego Wordle, implementado en React Native. Está diseñado para funcionar tanto en dispositivos iOS como Android, proporcionando una experiencia de juego similar al original.
+<p>Este proyecto es un clon del popular juego <strong>Wordle</strong>, implementado en <strong>React Native</strong>. Está diseñado para funcionar tanto en dispositivos <strong>iOS</strong> como <strong>Android</strong>, proporcionando una experiencia de juego similar al original.</p>
 
-🌟 Características
-Interfaz Sencilla: Una interfaz de usuario clara y fácil de usar.
-Responsive: Optimizado para diversos tamaños de dispositivos móviles.
-Funcionalidad Completa: Incluye todas las funcionalidades esenciales de Wordle, como la entrada de predicciones y la retroalimentación visual.
-🚀 Cómo Empezar
-Sigue estos pasos para ejecutar este proyecto en tu entorno local:
+<h2>🌟 Características</h2>
+<ul>
+  <li><strong>Interfaz Sencilla</strong>: Una interfaz de usuario clara y fácil de usar.</li>
+  <li><strong>Funcionalidad Completa</strong>: Incluye todas las funcionalidades esenciales de Wordle, como la entrada de predicciones y la retroalimentación visual.</li>
+</ul>
 
-Clona el Repositorio
-bash
-Copy code
-git clone [URL del repositorio]
-Instala las Dependencias
-bash
-Copy code
-cd [nombre-del-directorio]
-npm install
-Ejecuta la Aplicación
-Para iOS:
-bash
-Copy code
-npx react-native run-ios
-Para Android:
-bash
-Copy code
-npx react-native run-android
-📁 Estructura del Proyecto
-src/components/Game: Contiene la lógica principal del juego y la interfaz de usuario.
-src/utils/constants: Define las constantes utilizadas en todo el proyecto, incluyendo colores y configuraciones.
-App.js: Punto de entrada de la aplicación, configura la pantalla de inicio y gestiona la transición al juego.
+<h2>🚀 Cómo Empezar</h2>
+<p class="info">Sigue estos pasos para ejecutar este proyecto en tu entorno local:</p>
+
+<h3>Clona el Repositorio</h3>
+<pre>git clone [URL del repositorio]</pre>
+
+<h3>Instala las Dependencias</h3>
+<pre>cd [nombre-del-directorio]<br>npm install</pre>
+
+<h3>Ejecuta la Aplicación</h3>
+<p>Para iOS:</p>
+<pre>npx react-native run-ios</pre>
+<p>Para Android:</p>
+<pre>npx react-native run-android</pre>
+
+<h2>📁 Estructura del Proyecto</h2>
+<ul>
+  <li><code>src/components/Game</code>: Contiene la lógica principal del juego y la interfaz de usuario.</li>
+  <li><code>src/utils/constants</code>: Define las constantes utilizadas en todo el proyecto, incluyendo colores y configuraciones.</li>
+  <li><code>App.js</code>: Punto de entrada de la aplicación, configura la pantalla de inicio y gestiona la transición al juego.</li>
+</ul>
+
 
 Credit: [Kiran1689](https://github.com/Kiran1689)
